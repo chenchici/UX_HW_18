@@ -1,7 +1,6 @@
 body {
     font-family: "Prosto One", sans-serif;
     background-color: #280F32;
-    font-size: medium;
     color: #e5e5e5;
     
 }
@@ -78,7 +77,7 @@ body {
   grid-template-rows: 300px 180px ;
 }
 .row {
-  flex: 20%;
+  flex: 25%;
   padding: 5px 10px 200px 2px;
 
 }
@@ -97,7 +96,6 @@ body {
 
 .container {
   display: flex;
-  grid-template-columns: repeat(4, 1fr);
   width: auto ;
   height: 250px;
 }
